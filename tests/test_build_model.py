@@ -20,4 +20,4 @@ class TestBuild_model(TestCase):
         y_pred = creditClf.predict(X_test)
         accuracy = accuracy_score(y_test, y_pred)
         print("Your accuracy is " + str(accuracy))
-        self.assertGreater(accuracy, 0.78, "Accuracy not acceptable. You can do better with other approach.")
+        self.assertGreater(accuracy, 0.79, "Accuracy not acceptable. You can do better with other approach.")
