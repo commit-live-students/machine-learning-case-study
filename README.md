@@ -6,7 +6,7 @@ Read [Generalized Linear Models (GLM)](http://www.wright.edu/~thaddeus.tarpey/ES
 
 ### Session Slides
 
-@[gslides](1jjCoVgam9WN70gwoURG9YNvQVNPo-ZwNYxE4az2H8Gw)
+@[gslides](1WjKrm7e0CP5ItcyvnnTedH4zfmqZNYqzJaF0aqCqeyk)
 
 ### Post Reads
 
