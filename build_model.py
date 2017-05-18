@@ -17,7 +17,6 @@ def build():
     creditClf.fit(X=X_train, y=y_train)
     return creditClf
 
-
 def verify(clf, X, y):
     y_pred = clf.predict(X)
     print("=====================")
