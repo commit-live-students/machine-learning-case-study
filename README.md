@@ -8,6 +8,8 @@ Read [Generalized Linear Models (GLM)](http://www.wright.edu/~thaddeus.tarpey/ES
 
 @[gslides](1WjKrm7e0CP5ItcyvnnTedH4zfmqZNYqzJaF0aqCqeyk)
 
+@[vimeo](218011857)
+
 ### Post Reads
 
 Optional:
