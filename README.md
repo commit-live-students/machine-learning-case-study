@@ -4,13 +4,7 @@ Read [Generalized Linear Models (GLM)](http://www.wright.edu/~thaddeus.tarpey/ES
  * Check out this [deck](http://www.mc.vanderbilt.edu/gcrc/workshop_files/2004-11-12.pdf) introducing logistic regression.
  * Read [William King's logistic regression tutorial](http://ww2.coastal.edu/kingw/statistics/R-tutorials/logistic.html) with examples in `R`. It explains terms nicely and gives good illustrative examples.
 
-### Session Slides
-
-@[gslides](1VYmw480CTnVDPPG6E9rAFc9P1ukuMlg2ATCjEnO_BLY)
-
 ### Post Reads
-
-Optional:
 
  * Read [Generative and Discriminative Classifiers: Naive Bayes and Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf). This will likely help you to better understand both Naive Bayes and logistic regression, and how they can be thought of as related.
  * The UCLA Institute for Digital Research and Education has a lot of resources on using statistical software, such as: [R Data Analysis Examples: Logit Regression](http://www.ats.ucla.edu/stat/r/dae/logit.htm).
